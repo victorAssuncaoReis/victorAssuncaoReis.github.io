@@ -1,0 +1,86 @@
+body {
+    background-color: rgb(43, 45,66);
+    text-align: justify;
+    color: white;
+}
+
+p {
+    color: white;
+    font-style: verdana;
+}
+h2 {
+    color: white;
+    font-style: garamond;
+    text-align: center;
+}
+
+#fotodeperfil {
+    width: 300px;
+}
+#logolinkedin {
+    margin-left: 800px;
+}
+#logogithub {
+            }
+#fluencia {
+    text-decoration: solid;
+    text-decoration: underline;
+    font-size: 1.3em;
+}
+#bestlist {
+    text-align: left;
+}
+#otherlist {
+}
+h4 {
+    display: inline-block;
+    margin-left: 300px;
+}
+.button {
+    background-color:  rgb(34, 36, 59);
+    border: none;
+    color:  white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.divlista1 {
+    width: 800px;  
+}
+#divfotoedesc {
+    padding-top: 10px;
+    border: 5px solid green;
+    padding: auto;
+    max-height: 900px;
+    text-align: center;
+}
+#divfotodeperfil {
+display: inline-block;
+background-color: #2a385c;
+margin-bottom: 100px;
+}
+#divdescricao {
+    display: inline-block;
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+#divlistas {
+    border: 2px solid red;
+    text-align: center;
+}
+#divlista1 {
+    display: inline-block;
+    border: 2px solid orange;
+}
+#divlista2 {
+    display: inline-block;
+    border: 2px solid white;
+}
